@@ -204,7 +204,7 @@
 	"nm": "Bonete"
 }, {
 	"id": "02019",
-	"nm": "Bonillo, El"
+	"nm": "El Bonillo"
 }, {
 	"id": "02020",
 	"nm": "Carcelén"
@@ -348,7 +348,7 @@
 	"nm": "Pozuelo"
 }, {
 	"id": "02066",
-	"nm": "Recueja, La"
+	"nm": "La Recueja"
 }, {
 	"id": "02067",
 	"nm": "Riópar"
@@ -438,7 +438,7 @@
 	"nm": "Alfafara"
 }, {
 	"id": "03011",
-	"nm": "Alfàs del Pi, l'"
+	"nm": "L'Alfàs del Pi"
 }, {
 	"id": "03012",
 	"nm": "Algorfa"
@@ -456,7 +456,7 @@
 	"nm": "Almudaina"
 }, {
 	"id": "03017",
-	"nm": "Alqueria d'Asnar, l'"
+	"nm": "L'Alqueria d'Asnar"
 }, {
 	"id": "03018",
 	"nm": "Altea"
@@ -465,7 +465,7 @@
 	"nm": "Aspe"
 }, {
 	"id": "03001",
-	"nm": "Atzúbia, l'"
+	"nm": "L'Atzúbia"
 }, {
 	"id": "03020",
 	"nm": "Balones"
@@ -534,7 +534,7 @@
 	"nm": "Benissa"
 }, {
 	"id": "03042",
-	"nm": "Benitachell/Poble Nou de Benitatxell, el"
+	"nm": "El Benitachell/Poble Nou de Benitatxell"
 }, {
 	"id": "03043",
 	"nm": "Biar"
@@ -561,7 +561,7 @@
 	"nm": "Campello, el"
 }, {
 	"id": "03051",
-	"nm": "Campo de Mirra/Camp de Mirra, el"
+	"nm": "El Campo de Mirra/Camp de Mirra"
 }, {
 	"id": "03052",
 	"nm": "Cañada"
@@ -573,7 +573,7 @@
 	"nm": "Castell de Castells"
 }, {
 	"id": "03075",
-	"nm": "Castell de Guadalest, el"
+	"nm": "El Castell de Guadalest"
 }, {
 	"id": "03055",
 	"nm": "Catral"
@@ -657,7 +657,7 @@
 	"nm": "Llíber"
 }, {
 	"id": "03084",
-	"nm": "Lorcha/Orxa, l'"
+	"nm": "L'Lorcha/Orxa"
 }, {
 	"id": "03086",
 	"nm": "Millena"
@@ -2598,7 +2598,7 @@
 	"nm": "Alpens"
 }, {
 	"id": "08005",
-	"nm": "Ametlla del Vallès, L'"
+	"nm": "L'Ametlla del Vallès"
 }, {
 	"id": "08006",
 	"nm": "Arenys de Mar"
@@ -2826,13 +2826,13 @@
 	"nm": "Esplugues de Llobregat"
 }, {
 	"id": "08078",
-	"nm": "Espunyola, L'"
+	"nm": "L'Espunyola"
 }, {
 	"id": "08254",
-	"nm": "Esquirol, L'"
+	"nm": "L'Esquirol"
 }, {
 	"id": "08079",
-	"nm": "Estany, L'"
+	"nm": "L'Estany"
 }, {
 	"id": "08134",
 	"nm": "Figaró-Montmany"
@@ -2898,7 +2898,7 @@
 	"nm": "Gurb"
 }, {
 	"id": "08101",
-	"nm": "Hospitalet de Llobregat, L'"
+	"nm": "L'Hospitalet de Llobregat"
 }, {
 	"id": "08162",
 	"nm": "Hostalets de Pierola, Els"
@@ -5439,7 +5439,7 @@
 	"nm": "Alcalà de Xivert"
 }, {
 	"id": "12005",
-	"nm": "Alcora, l'"
+	"nm": "L'Alcora"
 }, {
 	"id": "12006",
 	"nm": "Alcudia de Veo"
@@ -7386,7 +7386,7 @@
 	"nm": "Argelaguer"
 }, {
 	"id": "17011",
-	"nm": "Armentera, L'"
+	"nm": "L'Armentera"
 }, {
 	"id": "17012",
 	"nm": "Avinyonet de Puigventós"
@@ -7527,7 +7527,7 @@
 	"nm": "Das"
 }, {
 	"id": "17062",
-	"nm": "Escala, L'"
+	"nm": "L'Escala"
 }, {
 	"id": "17063",
 	"nm": "Espinelves"
@@ -11451,7 +11451,7 @@
 	"nm": "Alàs i Cerc"
 }, {
 	"id": "25006",
-	"nm": "Albagés, L'"
+	"nm": "L'Albagés"
 }, {
 	"id": "25007",
 	"nm": "Albatàrrec"
@@ -11460,7 +11460,7 @@
 	"nm": "Albesa"
 }, {
 	"id": "25009",
-	"nm": "Albi, L'"
+	"nm": "L'Albi"
 }, {
 	"id": "25010",
 	"nm": "Alcanó"
@@ -11652,7 +11652,7 @@
 	"nm": "Cubells"
 }, {
 	"id": "25081",
-	"nm": "Espluga Calba, L'"
+	"nm": "L'Espluga Calba"
 }, {
 	"id": "25082",
 	"nm": "Espot"
@@ -19068,7 +19068,7 @@
 	"nm": "Albinyana"
 }, {
 	"id": "43003",
-	"nm": "Albiol, L'"
+	"nm": "L'Albiol"
 }, {
 	"id": "43004",
 	"nm": "Alcanar"
@@ -19077,13 +19077,13 @@
 	"nm": "Alcover"
 }, {
 	"id": "43904",
-	"nm": "Aldea, L'"
+	"nm": "L'Aldea"
 }, {
 	"id": "43006",
 	"nm": "Aldover"
 }, {
 	"id": "43007",
-	"nm": "Aleixar, L'"
+	"nm": "L'Aleixar"
 }, {
 	"id": "43008",
 	"nm": "Alfara de Carles"
@@ -19101,22 +19101,22 @@
 	"nm": "Altafulla"
 }, {
 	"id": "43013",
-	"nm": "Ametlla de Mar, L'"
+	"nm": "L'Ametlla de Mar"
 }, {
 	"id": "43906",
-	"nm": "Ampolla, L'"
+	"nm": "L'Ampolla"
 }, {
 	"id": "43014",
 	"nm": "Amposta"
 }, {
 	"id": "43016",
-	"nm": "Arboç, L'"
+	"nm": "L'Arboç"
 }, {
 	"id": "43015",
 	"nm": "Arbolí"
 }, {
 	"id": "43017",
-	"nm": "Argentera, L'"
+	"nm": "L'Argentera"
 }, {
 	"id": "43018",
 	"nm": "Arnes"
@@ -20988,10 +20988,10 @@
 	"nm": "Alcublas"
 }, {
 	"id": "46020",
-	"nm": "Alcúdia de Crespins, l'"
+	"nm": "L'Alcúdia de Crespins"
 }, {
 	"id": "46019",
-	"nm": "Alcúdia, l'"
+	"nm": "L'Alcúdia"
 }, {
 	"id": "46021",
 	"nm": "Aldaia"
@@ -21042,7 +21042,7 @@
 	"nm": "Alpuente"
 }, {
 	"id": "46037",
-	"nm": "Alqueria de la Comtessa, l'"
+	"nm": "L'Alqueria de la Comtessa"
 }, {
 	"id": "46017",
 	"nm": "Alzira"
@@ -21267,7 +21267,7 @@
 	"nm": "Dos Aguas"
 }, {
 	"id": "46116",
-	"nm": "Eliana, l'"
+	"nm": "L'Eliana"
 }, {
 	"id": "46117",
 	"nm": "Emperador"
@@ -21276,7 +21276,7 @@
 	"nm": "Enguera"
 }, {
 	"id": "46119",
-	"nm": "Ènova, l'"
+	"nm": "L'Ènova"
 }, {
 	"id": "46120",
 	"nm": "Estivella"
@@ -21459,7 +21459,7 @@
 	"nm": "Oliva"
 }, {
 	"id": "46183",
-	"nm": "Olleria, l'"
+	"nm": "L'Olleria"
 }, {
 	"id": "46182",
 	"nm": "Olocau"
