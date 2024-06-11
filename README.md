@@ -20,6 +20,12 @@ Este repositorio contiene tres archivos JSON que proporcionan información geogr
 ## Uso del Repositorio
 Para acceder a la información, simplemente realiza una solicitud HTTP GET a las URLs proporcionadas. Los datos están estructurados en formato JSON, facilitando su integración en cualquier aplicación o sistema que necesite estos datos.
 
+## Contribuciones
+Las contribuciones son bienvenidas. Si tienes alguna mejora, por favor realiza un fork del repositorio, realiza tus cambios y envía un pull request.
+
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
 ## Ejemplos de Uso en JavaScript
  **Ejemplo de Solicitud para Obtener Información de Países:**
    ```javascript
@@ -27,9 +33,3 @@ Para acceder a la información, simplemente realiza una solicitud HTTP GET a las
      .then(response => response.json())
      .then(data => console.log(data))
      .catch(error => console.error('Error:', error));
-
-## Contribuciones
-Las contribuciones son bienvenidas. Si tienes alguna mejora, por favor realiza un fork del repositorio, realiza tus cambios y envía un pull request.
-
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
