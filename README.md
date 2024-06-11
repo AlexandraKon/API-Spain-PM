@@ -21,25 +21,15 @@ Este repositorio contiene tres archivos JSON que proporcionan información geogr
 Para acceder a la información, simplemente realiza una solicitud HTTP GET a las URLs proporcionadas. Los datos están estructurados en formato JSON, facilitando su integración en cualquier aplicación o sistema que necesite estos datos.
 
 ## Ejemplos de Uso en JavaScript
-1. **Ejemplo de Solicitud para Obtener Información de Países:**
+ **Ejemplo de Solicitud para Obtener Información de Países:**
    ```javascript
    fetch('https://api-spain-pm.vercel.app/PhoneNumberCode.json')
      .then(response => response.json())
      .then(data => console.log(data))
      .catch(error => console.error('Error:', error));
 
+## Contribuciones
+Las contribuciones son bienvenidas. Si tienes alguna mejora, por favor realiza un fork del repositorio, realiza tus cambios y envía un pull request.
 
-
-
-
-
-
-
-Paises,
-Provincias y  Municipios de España
-
-https://api-spain-pm.vercel.app/Provincias.json
-
-https://api-spain-pm.vercel.app/Municipios.json
-
-https://api-spain-pm.vercel.app/PhoneNumberCode.json
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
