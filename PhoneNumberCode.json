@@ -1,10 +1,5 @@
 [
   {
-    "name": "España",
-    "code": "+34",
-    "flag": "https://flagcdn.com/w320/es.png"
-  },
-  {
     "flag": "https://flagcdn.com/w320/af.png",
     "name": "Afganistán",
     "code": "+93"
